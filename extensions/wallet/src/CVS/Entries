@@ -1,0 +1,27 @@
+/.cvsignore/1.1/Wed Mar 31 08:30:31 1999//
+/DistinguishedSchema.tbl/1.3/Thu Jun 29 22:30:40 2000//
+/FieldSchema.tbl/1.10/Tue Nov 14 14:24:01 2000//
+/Makefile.in/1.58/Sat Mar 15 01:02:44 2003//
+/PositionalSchema.tbl/1.1/Tue Nov 14 14:21:56 2000//
+/SchemaConcat.tbl/1.7/Tue Nov 14 14:24:34 2000//
+/SchemaStrings.tbl/1.3/Tue Dec 12 15:07:23 2000//
+/StateSchema.tbl/1.1/Tue Nov 14 14:21:41 2000//
+/VcardSchema.tbl/1.1/Tue Jan 16 21:57:27 2001//
+/cookie.properties/1.9/Tue Jun 25 22:32:56 2002//
+/nsBasicStreamGenerator.cpp/1.18/Fri Jul 25 19:06:20 2003//
+/nsBasicStreamGenerator.h/1.9/Tue Sep 25 23:31:06 2001//
+/nsPassword.cpp/1.10/Wed Jan  8 20:13:53 2003//
+/nsPassword.h/1.6/Tue Mar 26 01:10:42 2002//
+/nsPasswordManager.cpp/1.15/Wed Jan  8 20:13:53 2003//
+/nsPasswordManager.h/1.5/Tue Mar 26 01:10:19 2002//
+/nsWalletBuiltInDataSources.h/1.6/Tue Sep 25 23:31:06 2001//
+/nsWalletFactory.cpp/1.27/Tue Mar 26 01:11:05 2002//
+/nsWalletService.cpp/1.143/Tue Jul  8 14:40:59 2003//
+/nsWalletService.h/1.59/Wed Jan  8 20:13:53 2003//
+/singsign.cpp/1.235/Wed Jul 30 22:44:53 2003//
+/singsign.h/1.52/Thu Sep 19 01:42:19 2002//
+/wallet.cpp/1.352/Mon Jul 28 21:35:25 2003//
+/wallet.h/1.44/Tue Jul  8 14:41:00 2003//
+/wallet.properties/1.53/Wed May 15 14:05:52 2002//
+/win32.order/1.4/Thu Apr  5 05:57:42 2001//
+D/resources////

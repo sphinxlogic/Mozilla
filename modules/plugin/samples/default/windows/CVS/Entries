@@ -1,0 +1,20 @@
+/.cvsignore/1.1/Tue Dec 18 09:12:51 2001//
+/Makefile.in/1.11/Sat Mar  8 05:56:51 2003//
+/Npnul32.dsp/1.3/Tue Oct  8 06:31:12 2002//
+/dbg.cpp/1.4/Fri Sep 28 20:08:44 2001//
+/dbg.h/1.4/Fri Sep 28 20:08:44 2001//
+/dialogs.cpp/1.7/Tue Mar 25 06:53:40 2003//
+/dialogs.h/1.4/Fri Sep 28 20:08:44 2001//
+/maindll.cpp/1.4/Fri Sep 28 20:08:44 2001//
+/npnul32.def/1.2/Sat Apr 27 01:48:51 2002//
+/npnul32.dsw/1.1/Mon Jun 26 22:30:38 2000//
+/npnul32.rc/1.5/Tue Mar 11 03:29:40 2003//
+/npshell.cpp/1.7/Tue Mar 25 06:53:40 2003//
+/npwin.cpp/1.6/Tue Mar 25 06:53:41 2003//
+/plugicon.ico/1.1/Mon Jun 26 22:26:29 2000/-kb/
+/plugin.cpp/1.16/Tue Mar 25 06:53:42 2003//
+/plugin.h/1.10/Tue Oct  8 06:31:13 2002//
+/resource.h/1.1/Mon Jun 26 22:23:18 2000//
+/utils.cpp/1.4/Fri Sep 28 20:08:44 2001//
+/utils.h/1.4/Fri Sep 28 20:08:44 2001//
+D

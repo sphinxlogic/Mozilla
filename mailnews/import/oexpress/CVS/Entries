@@ -1,0 +1,24 @@
+/.cvsignore/1.1/Tue Dec 18 09:12:11 2001//
+/Makefile.in/1.7/Sun Apr 20 22:50:27 2003//
+/OEDebugLog.h/1.8/Thu Dec 19 23:28:53 2002//
+/WabObject.cpp/1.10/Sun Mar 31 05:31:42 2002//
+/WabObject.h/1.6/Fri Mar 22 22:19:41 2002//
+/nsOE5File.cpp/1.14/Fri May 31 02:20:45 2002//
+/nsOE5File.h/1.6/Tue Feb 12 21:52:08 2002//
+/nsOEAddressIterator.cpp/1.22/Sun Jul 20 07:46:59 2003//
+/nsOEAddressIterator.h/1.7/Tue Oct  8 03:49:38 2002//
+/nsOEFactory.cpp/1.17/Wed Jan 30 21:09:35 2002//
+/nsOEImport.cpp/1.34/Wed Jan  8 21:58:05 2003//
+/nsOEImport.h/1.5/Fri Sep 28 20:07:14 2001//
+/nsOEMailbox.cpp/1.11/Fri May 31 02:20:45 2002//
+/nsOEMailbox.h/1.6/Fri Sep 28 20:07:14 2001//
+/nsOERegUtil.cpp/1.4/Fri Sep 28 20:07:14 2001//
+/nsOERegUtil.h/1.3/Fri Sep 28 20:07:14 2001//
+/nsOEScanBoxes.cpp/1.22/Fri May 23 21:34:00 2003//
+/nsOEScanBoxes.h/1.7/Tue Apr 30 21:32:09 2002//
+/nsOESettings.cpp/1.26/Sun Jul 20 07:46:59 2003//
+/nsOESettings.h/1.3/Fri Sep 28 20:07:14 2001//
+/nsOEStringBundle.cpp/1.16/Fri Nov 15 03:29:18 2002//
+/nsOEStringBundle.h/1.6/Fri Mar 22 22:19:41 2002//
+/win32.order/1.4/Thu Apr  5 05:58:54 2001//
+D/resources////

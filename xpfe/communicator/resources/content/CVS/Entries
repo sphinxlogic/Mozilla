@@ -1,0 +1,38 @@
+/.cvsignore/1.1/Wed May 10 06:53:01 2000//
+/Makefile.in/1.18/Thu Apr 25 02:52:25 2002//
+/aboutPopups.xul/1.2/Wed Jul  2 14:29:43 2003//
+/askViewZoom.js/1.5/Mon Jan 28 12:46:31 2002//
+/askViewZoom.xul/1.8/Mon Sep  2 03:35:30 2002//
+/browserBindings.xul/1.7/Mon Dec  3 21:51:56 2001//
+/builtinURLs.js/1.8/Mon Jun  3 20:53:23 2002//
+/communicator.css/1.2/Fri Mar  1 00:51:46 2002//
+/communicatorOverlay.xul/1.1/Sun May 28 05:13:14 2000//
+/contentAreaClick.js/1.36/Thu Apr 17 00:55:33 2003//
+/contentAreaContextOverlay.xul/1.46/Fri Apr 25 09:21:31 2003//
+/contentAreaDD.js/1.32/Wed Jul 10 01:23:50 2002//
+/contentAreaUtils.js/1.86/Sat Jul 26 05:17:26 2003//
+/contents-platform.rdf/1.17/Thu Jun 12 15:18:31 2003//
+/contents-region.rdf/1.17/Thu Jun 12 15:18:30 2003//
+/contents.rdf/1.22/Fri Jul 25 23:03:34 2003//
+/editorBindings.xul/1.6/Wed Mar 21 20:32:45 2001//
+/findUtils.js/1.10/Fri Apr 18 12:43:45 2003//
+/manifest.rdf/1.5/Sat Aug  5 02:30:20 2000//
+/nsContextMenu.js/1.83/Wed May 14 14:36:30 2003//
+/openLocation.js/1.17/Tue Aug  6 00:53:10 2002//
+/openLocation.xul/1.24/Sun Feb 23 00:10:30 2003//
+/plugins.html/1.11/Tue Jan 21 21:03:37 2003//
+/popupManager.js/1.5/Fri Jul 11 00:04:00 2003//
+/popupManager.xul/1.4/Wed Jul  2 14:29:43 2003//
+/printPageSetup.js/1.11/Thu Nov 14 15:33:03 2002//
+/printPageSetup.xul/1.10/Wed Feb 26 13:22:40 2003//
+/printPreviewBindings.xml/1.17/Fri Feb 28 22:55:09 2003//
+/printing.js/1.2/Wed Oct 30 13:38:00 2002//
+/tasksOverlay.js/1.54/Sat Jul 19 17:58:44 2003//
+/tasksOverlay.xul/1.62/Fri May  9 13:06:29 2003//
+/utilityOverlay.js/1.74/Fri Mar 14 09:23:14 2003//
+/utilityOverlay.xul/1.42/Fri Mar 14 06:27:48 2003//
+/viewZoomOverlay.js/1.8/Fri Mar 21 22:34:57 2003//
+/viewZoomOverlay.xul/1.10/Fri Mar 21 22:34:57 2003//
+D/mac////
+D/unix////
+D/win////

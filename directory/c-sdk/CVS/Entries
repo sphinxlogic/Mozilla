@@ -1,0 +1,12 @@
+/.cvsignore/5.1/Tue Mar 26 22:17:48 2002//Tldapcsdk_50_client_branch
+/Makefile.in/5.0.2.1/Fri Apr  5 03:51:34 2002//Tldapcsdk_50_client_branch
+/README.configure/5.0/Tue Mar 26 21:51:40 2002//Tldapcsdk_50_client_branch
+/aclocal.m4/5.0/Tue Mar 26 21:51:40 2002//Tldapcsdk_50_client_branch
+/build.mk/5.0.2.11/Tue Mar 25 13:57:30 2003//Tldapcsdk_50_client_branch
+/component_versions.mk/5.0/Tue Mar 26 21:51:40 2002//Tldapcsdk_50_client_branch
+/configure/5.0.2.22/Sat Apr 19 01:29:36 2003//Tldapcsdk_50_client_branch
+/configure.in/5.0.2.20/Sat Apr 19 01:29:38 2003//Tldapcsdk_50_client_branch
+/gmakefile.win/5.0/Tue Mar 26 21:51:42 2002//Tldapcsdk_50_client_branch
+/package.mk/5.0/Tue Mar 26 21:51:43 2002//Tldapcsdk_50_client_branch
+D/config////
+D/ldap////

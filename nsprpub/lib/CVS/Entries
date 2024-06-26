@@ -1,0 +1,7 @@
+/.cvsignore/1.2/Sat May 12 01:02:30 2001//TNSPRPUB_PRE_4_2_CLIENT_BRANCH
+/Makefile.in/1.8/Mon Jan 22 06:35:59 2001//TNSPRPUB_PRE_4_2_CLIENT_BRANCH
+D/ds////
+D/libc////
+D/msgc////
+D/prstreams////
+D/tests////

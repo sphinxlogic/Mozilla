@@ -1,0 +1,30 @@
+/.cvsignore/1.1/Thu Apr 22 00:49:00 1999//
+/Makefile.in/1.46/Sat Aug  9 05:04:05 2003//
+/jar.mn/1.63/Tue Jul 22 14:39:36 2003//
+D/alerts////
+D/autocomplete////
+D/bookmarks////
+D/build////
+D/build2////
+D/console////
+D/directory////
+D/download-manager////
+D/filepicker////
+D/find////
+D/history////
+D/intl////
+D/killAll////
+D/prefwindow////
+D/related////
+D/resetPref////
+D/search////
+D/shistory////
+D/sidebar////
+D/timebomb////
+D/updates////
+D/urlbarhistory////
+D/urlwidget////
+D/windowds////
+D/winhooks////
+D/xfer////
+D/xremote////

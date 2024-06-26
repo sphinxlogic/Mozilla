@@ -1,0 +1,20 @@
+/.cvsignore/1.2/Tue Feb  2 01:47:18 1999//
+/Makefile.in/1.33/Thu Oct 17 06:45:50 2002//
+/langGroups.properties/1.5/Fri May 23 06:31:18 2003//
+/language.properties/1.11/Sat Mar  2 00:58:27 2002//
+/nsCollation.cpp/1.35/Thu Jul 24 20:31:23 2003//
+/nsCollation.h/1.17/Thu Jul 24 20:31:24 2003//
+/nsFontPackageService.cpp/1.12/Thu Jun 12 03:27:20 2003//
+/nsFontPackageService.h/1.5/Sat Feb 16 01:39:52 2002//
+/nsLanguageAtomService.cpp/1.22/Thu Jul 24 04:52:59 2003//
+/nsLanguageAtomService.h/1.10/Wed Jun 11 18:14:42 2003//
+/nsLocale.cpp/1.23/Wed Jan  8 20:49:55 2003//
+/nsLocale.h/1.12/Thu Sep 20 00:00:09 2001//
+/nsLocaleConstructors.h/1.8/Wed Sep 25 12:30:24 2002//
+/nsLocaleService.cpp/1.49/Wed Mar 19 06:26:49 2003//
+/nsScriptableDateFormat.cpp/1.21/Wed Jan  8 20:49:55 2003//
+/win32.order/1.4/Thu Apr  5 05:57:54 2001//
+D/mac////
+D/os2////
+D/unix////
+D/windows////

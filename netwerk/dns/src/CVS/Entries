@@ -1,0 +1,14 @@
+/.cvsignore/1.1/Tue Jun  8 09:47:25 1999//
+/Makefile.in/1.21/Fri Apr 18 20:13:53 2003//
+/nameprep.c/1.1/Wed Jan 15 21:30:09 2003//
+/nameprep_template.c/1.1/Wed Jan 15 21:30:09 2003//
+/nameprepdata.c/1.1/Wed Jan 15 21:30:10 2003//
+/nsDnsService.cpp/1.122/Tue Aug  5 20:09:05 2003//
+/nsDnsService.h/1.37/Wed Apr 16 20:26:50 2003//
+/nsIDNKitInterface.h/1.2/Fri May 23 22:18:16 2003//
+/nsIDNService.cpp/1.13/Mon Jul 14 07:37:30 2003//
+/nsIDNService.h/1.4/Fri Apr 11 17:05:55 2003//
+/punycode.c/1.2/Wed Mar 12 21:31:39 2003//
+/punycode.h/1.2/Wed Mar 12 21:31:39 2003//
+/race.c/1.1/Fri Jan 17 23:40:49 2003//
+D

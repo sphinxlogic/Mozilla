@@ -1,0 +1,24 @@
+/PluginHostCtrl.rgs/1.1/Thu Sep 13 12:36:15 2001//
+/README.txt/1.2/Sat Sep 22 12:33:34 2001//
+/StdAfx.cpp/1.1/Thu Sep 13 12:36:15 2001//
+/StdAfx.h/1.1/Thu Sep 13 12:36:14 2001//
+/npn.cpp/1.6/Wed Nov 20 23:12:57 2002//
+/npn.h/1.1/Thu Sep 13 12:36:17 2001//
+/nsPluginHostCtrl.cpp/1.8/Tue Oct 30 23:06:50 2001//
+/nsPluginHostCtrl.h/1.5/Tue Oct 30 23:06:50 2001//
+/nsPluginWnd.cpp/1.1/Thu Sep 13 12:36:16 2001//
+/nsPluginWnd.h/1.1/Thu Sep 13 12:36:16 2001//
+/nsURLDataCallback.cpp/1.5/Fri Nov 16 13:01:06 2001//
+/nsURLDataCallback.h/1.5/Fri Nov 16 13:01:06 2001//
+/pluginho.bmp/1.1/Thu Sep 13 12:36:16 2001/-kb/
+/pluginhostctrl.cpp/1.1/Thu Sep 13 12:36:16 2001//
+/pluginhostctrl.def/1.1/Thu Sep 13 12:36:16 2001//
+/pluginhostctrl.dsp/1.3/Thu Oct  4 13:09:49 2001//
+/pluginhostctrl.idl/1.1/Thu Sep 13 12:36:15 2001//
+/pluginhostctrl.rc/1.1/Thu Sep 13 12:36:15 2001//
+/pluginhostctrlps.def/1.1/Thu Sep 13 12:36:15 2001//
+/pluginhostctrlps.mk/1.1/Thu Sep 13 12:36:15 2001//
+/resource.h/1.1/Thu Sep 13 12:36:15 2001//
+D/cab////
+D/pluginsdk_include////
+D/tests////

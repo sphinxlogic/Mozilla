@@ -1,0 +1,24 @@
+/.cvsignore/5.0/Tue Mar 26 21:52:57 2002//Tldapcsdk_50_client_branch
+/MANIFEST/5.0/Tue Mar 26 21:52:57 2002//Tldapcsdk_50_client_branch
+/Makefile.client/5.0/Tue Mar 26 21:52:57 2002//Tldapcsdk_50_client_branch
+/Makefile.in/5.0.2.4/Wed Apr 24 23:03:25 2002//Tldapcsdk_50_client_branch
+/disptmpl.h/5.0/Tue Mar 26 21:52:57 2002//Tldapcsdk_50_client_branch
+/iutil.h/5.0/Tue Mar 26 21:52:58 2002//Tldapcsdk_50_client_branch
+/lber.h/5.0/Tue Mar 26 21:53:00 2002//Tldapcsdk_50_client_branch
+/lcache.h/5.0/Tue Mar 26 21:53:00 2002//Tldapcsdk_50_client_branch
+/ldap-deprecated.h/5.0/Tue Mar 26 21:53:00 2002//Tldapcsdk_50_client_branch
+/ldap-extension.h/5.0/Tue Mar 26 21:53:00 2002//Tldapcsdk_50_client_branch
+/ldap-platform.h/5.0/Tue Mar 26 21:53:01 2002//Tldapcsdk_50_client_branch
+/ldap-standard-tmpl.h/5.0/Tue Mar 26 21:53:01 2002//Tldapcsdk_50_client_branch
+/ldap-to-be-deprecated.h/5.0/Tue Mar 26 21:53:01 2002//Tldapcsdk_50_client_branch
+/ldap.h/5.0/Tue Mar 26 21:53:01 2002//Tldapcsdk_50_client_branch
+/ldap_ssl.h/5.0/Tue Mar 26 21:53:01 2002//Tldapcsdk_50_client_branch
+/ldaplog.h/5.0/Tue Mar 26 21:53:02 2002//Tldapcsdk_50_client_branch
+/ldappr.h/5.0/Tue Mar 26 21:53:02 2002//Tldapcsdk_50_client_branch
+/ldaprot.h/5.0/Tue Mar 26 21:53:02 2002//Tldapcsdk_50_client_branch
+/ldif.h/5.0/Tue Mar 26 21:53:02 2002//Tldapcsdk_50_client_branch
+/portable.h/5.0.2.4/Tue Mar 25 13:57:36 2003//Tldapcsdk_50_client_branch
+/proto-ntutil.h/5.0/Tue Mar 26 21:53:04 2002//Tldapcsdk_50_client_branch
+/regex.h/5.0/Tue Mar 26 21:53:05 2002//Tldapcsdk_50_client_branch
+/srchpref.h/5.0/Tue Mar 26 21:53:05 2002//Tldapcsdk_50_client_branch
+D

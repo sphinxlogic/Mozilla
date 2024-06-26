@@ -1,0 +1,18 @@
+/.cvsignore/1.1/Sat Feb 27 10:16:19 1999//
+/Makefile.in/1.12/Sat Sep 29 00:10:36 2001//
+/ascii.h/1.4/Sat Sep 29 00:10:36 2001//
+/asciitab.h/1.7/Sat Sep 29 00:10:36 2001//
+/dllmain.c/1.7/Sat Sep 29 00:10:36 2001//
+/iasciitab.h/1.7/Sat Sep 29 00:10:36 2001//
+/latin1tab.h/1.6/Sat Sep 29 00:10:36 2001//
+/nametab.h/1.4/Sat Sep 29 00:10:37 2001//
+/utf8tab.h/1.6/Sat Sep 29 00:10:37 2001//
+/xmldef.h/1.20/Sat Sep 29 00:10:37 2001//
+/xmlrole.c/1.8/Sat Sep 29 00:10:37 2001//
+/xmlrole.h/1.8/Sat Sep 29 00:10:37 2001//
+/xmltok.c/1.9/Sat Jul 20 01:18:52 2002//
+/xmltok.h/1.9/Sat Sep 29 00:10:38 2001//
+/xmltok_impl.c/1.9/Sat Sep 29 00:10:38 2001//
+/xmltok_impl.h/1.7/Sat Sep 29 00:10:38 2001//
+/xmltok_ns.c/1.6/Sat Sep 29 00:10:38 2001//
+D

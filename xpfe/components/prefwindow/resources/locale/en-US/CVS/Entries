@@ -1,0 +1,40 @@
+/.cvsignore/1.1/Tue Aug 10 05:16:39 1999//
+/Makefile.in/1.31/Wed Sep  4 03:35:44 2002//
+/pref-advanced.dtd/1.27/Mon Jun  9 08:30:04 2003//
+/pref-appearance.dtd/1.19/Sun Apr 27 14:36:28 2003//
+/pref-applications-edit.dtd/1.6/Tue Jan 14 22:42:37 2003//
+/pref-applications.dtd/1.14/Sun Jan 12 01:14:35 2003//
+/pref-applications.properties/1.6/Mon Jul 14 21:30:27 2003//
+/pref-bidi.dtd/1.1/Fri May 11 13:46:03 2001//
+/pref-cache.dtd/1.22/Fri Apr 18 02:15:44 2003//
+/pref-charset.dtd/1.4/Tue Apr 29 20:23:27 2003//
+/pref-colors.dtd/1.22/Fri Jan 17 03:15:23 2003//
+/pref-debug.dtd/1.35/Mon Feb 24 07:58:51 2003//
+/pref-debug1.dtd/1.4/Thu Nov 22 02:27:05 2001//
+/pref-debug2.dtd/1.8/Tue May  7 08:40:09 2002//
+/pref-download.dtd/1.14/Sat Jun  1 13:13:40 2002//
+/pref-fonts.dtd/1.33/Fri May 23 06:31:24 2003//
+/pref-history.dtd/1.10/Mon Feb 24 07:58:50 2003//
+/pref-http.dtd/1.4/Fri May 31 21:16:18 2002//
+/pref-keynav.dtd/1.2/Fri Feb 14 07:52:00 2003//
+/pref-languages.dtd/1.17/Sat Feb 22 14:01:29 2003//
+/pref-languages.properties/1.2/Fri Mar  7 21:16:22 2003//
+/pref-mousewheel.dtd/1.10/Wed Aug 16 22:48:49 2000//
+/pref-navigator.dtd/1.24/Thu May  1 21:02:46 2003//
+/pref-offline.dtd/1.16/Tue Aug  5 08:14:21 2003//
+/pref-policies.dtd/1.2/Sat May 19 15:54:18 2001//
+/pref-proxies.dtd/1.22/Sat Feb 22 14:03:59 2003//
+/pref-scripts.dtd/1.6/Fri Jun 14 18:56:19 2002//
+/pref-search.dtd/1.19/Mon Jul  9 22:51:48 2001//
+/pref-security.dtd/1.5/Fri Sep  7 21:39:13 2001//
+/pref-smart_browsing.dtd/1.30/Mon Feb 24 07:58:50 2003//
+/pref-smartupdate.dtd/1.12/Wed Feb 20 04:01:34 2002//
+/pref-tabs.dtd/1.7/Sat Dec 14 00:21:38 2002//
+/pref-themes.dtd/1.12/Mon Feb 24 07:58:51 2003//
+/pref-winhooks.dtd/1.13/Fri Jul 19 10:12:14 2002//
+/pref.dtd/1.8/Tue Jan 14 00:03:07 2003//
+/preftree.dtd/1.51/Tue Aug  5 08:14:21 2003//
+/prefutilities.properties/1.20/Thu May 29 03:57:20 2003//
+D/mac////
+D/unix////
+D/win////

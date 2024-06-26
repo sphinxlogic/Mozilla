@@ -1,0 +1,11 @@
+/.cvsignore/1.1/Wed May 26 17:50:42 1999//
+/Makefile.in/1.64/Tue Jul 22 18:29:48 2003//
+/dlldeps.cpp/1.95/Tue Aug  5 05:28:54 2003//
+/malloc.c/1.3/Thu Jul  3 20:54:34 2003//
+/nsXPCOM.h/1.11/Tue Aug  5 05:28:54 2003//
+/nsXPCOMCID.h/1.3/Thu Oct 17 23:41:37 2002//
+/nsXPCOMPrivate.h/1.12/Tue Aug  5 05:28:54 2003//
+/nsXPComInit.cpp/1.183/Tue Aug  5 05:28:55 2003//
+/win32.order/1.6/Mon Nov 26 08:04:57 2001//
+/xpcom_alpha.def/1.2/Sat May 19 00:02:58 2001//
+D

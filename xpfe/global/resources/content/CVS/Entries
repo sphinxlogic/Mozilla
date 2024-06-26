@@ -1,0 +1,56 @@
+/.cvsignore/1.1/Tue Jul 20 20:22:34 1999//
+/MPL-1.1.html/1.1/Tue Jan 15 23:40:36 2002//
+/Makefile.in/1.58/Thu Apr 25 02:52:33 2002//
+/NPL-1.1.html/1.1/Tue Jan 15 23:40:37 2002//
+/about.js/1.1/Fri Jan 11 00:29:00 2002//
+/about.xul/1.16/Fri Jan 11 00:29:04 2002//
+/charsetOverlay.js/1.35/Tue Nov 12 22:52:49 2002//
+/charsetOverlay.xul/1.39/Mon Dec  3 06:01:24 2001//
+/commonDialog.js/1.50/Thu Nov 14 15:08:32 2002//
+/commonDialog.xul/1.41/Fri Feb  1 22:18:57 2002//
+/config.css/1.8/Mon Jul  7 21:22:24 2003//
+/config.js/1.9/Fri Jun 13 17:01:46 2003//
+/config.xul/1.13/Fri Jun 13 17:01:47 2003//
+/contents-platform.rdf/1.17/Thu Jun 12 15:18:49 2003//
+/contents-region.rdf/1.17/Thu Jun 12 15:18:48 2003//
+/contents.rdf/1.22/Fri Jul 25 23:03:39 2003//
+/dialogOverlay.js/1.13/Fri Apr 13 22:30:04 2001//
+/dialogOverlay.xul/1.11/Mon Sep  2 03:36:29 2002//
+/fontpackage.js/1.1/Thu Jun 12 02:08:49 2003//
+/fontpackage.xul/1.1/Thu Jun 12 02:08:49 2003//
+/fullScreen.js/1.3/Sat Jan 18 20:55:14 2003//
+/globalOverlay.js/1.85/Thu Nov  7 20:25:45 2002//
+/globalOverlay.xul/1.65/Sat Nov  3 04:14:50 2001//
+/hiddenWindow.xul/1.38/Tue Apr 29 22:51:48 2003//
+/logo.gif/1.4/Thu Aug 24 04:10:49 2000/-kb/
+/manifest.rdf/1.2/Sun May 14 05:30:00 2000//
+/mozilla.xhtml/1.4/Sat Nov 10 19:10:39 2001//
+/nsClipboard.js/1.5/Sun Nov 11 04:19:27 2001//
+/nsDragAndDrop.js/1.24/Thu May 30 22:04:25 2002//
+/nsJSComponentManager.js/1.5/Fri Sep 28 20:14:05 2001//
+/nsJSSupportsUtils.js/1.5/Tue Aug  6 00:53:19 2002//
+/nsTransferable.js/1.10/Mon Sep 23 06:27:03 2002//
+/nsTreeController.js/1.12/Fri May 23 12:03:40 2003//
+/nsTreeSorting.js/1.6/Sat Mar 15 16:30:04 2003//
+/nsUserSettings.js/1.10/Tue Aug  6 00:53:19 2002//
+/nsWidgetStateManager.js/1.26/Fri Apr 18 02:15:46 2003//
+/printPreviewProgress.js/1.3/Fri Jul 12 03:39:14 2002//
+/printPreviewProgress.xul/1.1/Tue Jul  9 12:38:59 2002//
+/printProgress.js/1.5/Fri Apr 25 01:53:55 2003//
+/printProgress.xul/1.4/Tue Jul  9 12:38:59 2002//
+/printdialog.js/1.22/Tue Sep 10 05:15:47 2002//
+/printdialog.xul/1.6/Mon Sep  2 03:36:29 2002//
+/selectDialog.js/1.19/Fri Mar 29 02:45:57 2002//
+/selectDialog.xul/1.21/Fri Jan 10 15:04:04 2003//
+/strres.js/1.17/Thu Jul 25 00:38:23 2002//
+/widgetStateManager.js/1.15/Wed Sep 13 23:57:49 2000//
+/wizardHandlerSet.js/1.10/Wed Feb  7 02:53:49 2001//
+/wizardManager.js/1.9/Thu Jan 11 22:58:50 2001//
+/wizardOverlay.js/1.1/Wed Nov 24 04:39:20 1999//
+/wizardOverlay.xul/1.10/Mon Sep  2 03:36:29 2002//
+/xul.css/1.125/Fri Jul  4 01:33:10 2003//
+D/bindings////
+D/mac////
+D/os2////
+D/unix////
+D/win////

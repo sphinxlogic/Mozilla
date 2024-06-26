@@ -1,0 +1,15 @@
+/.cvsignore/1.1/Sat Feb 24 06:22:42 2001//
+/Makefile.in/1.17/Thu Oct 17 06:46:33 2002//
+/nsASingleFragmentString.cpp/1.1/Sat Oct 27 11:40:01 2001//
+/nsAString.cpp/1.23/Thu Oct 17 23:41:35 2002//
+/nsDependentConcatenation.cpp/1.6/Wed May 15 03:28:44 2002//
+/nsDependentSubstring.cpp/1.9/Tue Mar 18 23:48:44 2003//
+/nsFragmentedString.cpp/1.6/Sat Oct 13 15:01:20 2001//
+/nsPrintfCString.cpp/1.4/Wed Feb  6 15:39:52 2002//
+/nsPromiseFlatString.cpp/1.6/Wed May 15 03:28:44 2002//
+/nsReadableUtils.cpp/1.51/Fri Jun 27 07:44:13 2003//
+/nsSharableString.cpp/1.11/Wed Jan 16 03:08:22 2002//
+/nsSharedBufferList.cpp/1.10/Wed Nov 28 05:22:54 2001//
+/nsSlidingString.cpp/1.13/Mon Aug 19 03:50:25 2002//
+/nsXPIDLString.cpp/1.9/Thu Jan 23 03:35:30 2003//
+D

@@ -1,0 +1,13 @@
+/.cvsignore/1.1/Tue Jun  6 07:23:20 2000//
+/Makefile.in/1.11/Fri Jun 14 00:38:07 2002//
+/nsILDAPBERValue.idl/1.1/Fri Jun 14 00:38:08 2002//
+/nsILDAPConnection.idl/1.17/Wed Sep 11 11:20:10 2002//
+/nsILDAPErrors.idl/1.2/Thu Sep 20 07:46:51 2001//
+/nsILDAPMessage.idl/1.14/Wed Sep 11 11:20:17 2002//
+/nsILDAPMessageListener.idl/1.9/Wed Sep 11 11:20:23 2002//
+/nsILDAPOperation.idl/1.19/Wed Sep 11 11:20:27 2002//
+/nsILDAPServer.idl/1.2/Wed Sep 11 11:20:34 2002//
+/nsILDAPService.idl/1.4/Wed Sep 11 11:20:38 2002//
+/nsILDAPURL.idl/1.8/Wed Sep 11 11:20:43 2002//
+/nsLDAP.h/1.7/Thu Sep 20 07:46:52 2001//
+D

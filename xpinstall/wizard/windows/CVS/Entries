@@ -1,0 +1,13 @@
+/.cvsignore/1.1/Tue Dec 18 09:14:19 2001//
+/Makefile.in/1.3/Wed Oct  9 01:06:46 2002//
+D/GetShortPathName////
+D/builder////
+D/ds32////
+D/nsinstall////
+D/nsztool////
+D/palmsync////
+D/ren8dot3////
+D/setup////
+D/setuprsc////
+D/test////
+D/uninstall////

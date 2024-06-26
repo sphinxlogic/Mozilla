@@ -1,0 +1,25 @@
+/Makefile/5.0/Tue Mar 26 21:52:30 2002//Tldapcsdk_50_client_branch
+/README/5.0/Tue Mar 26 21:52:30 2002//Tldapcsdk_50_client_branch
+/add.c/5.0/Tue Mar 26 21:52:30 2002//Tldapcsdk_50_client_branch
+/asearch.c/5.0/Tue Mar 26 21:52:32 2002//Tldapcsdk_50_client_branch
+/compare.c/5.0/Tue Mar 26 21:52:32 2002//Tldapcsdk_50_client_branch
+/crtfilt.c/5.0/Tue Mar 26 21:52:32 2002//Tldapcsdk_50_client_branch
+/csearch.c/5.0/Tue Mar 26 21:52:32 2002//Tldapcsdk_50_client_branch
+/del.c/5.0/Tue Mar 26 21:52:33 2002//Tldapcsdk_50_client_branch
+/examples.h/5.0/Tue Mar 26 21:52:33 2002//Tldapcsdk_50_client_branch
+/getattrs.c/5.0/Tue Mar 26 21:52:33 2002//Tldapcsdk_50_client_branch
+/getfilt.c/5.0/Tue Mar 26 21:52:33 2002//Tldapcsdk_50_client_branch
+/modattrs.c/5.0/Tue Mar 26 21:52:34 2002//Tldapcsdk_50_client_branch
+/modrdn.c/5.0/Tue Mar 26 21:52:35 2002//Tldapcsdk_50_client_branch
+/nsprio.c/5.0/Tue Mar 26 21:52:36 2002//Tldapcsdk_50_client_branch
+/ppolicy.c/5.0/Tue Mar 26 21:52:36 2002//Tldapcsdk_50_client_branch
+/psearch.c/5.0/Tue Mar 26 21:52:36 2002//Tldapcsdk_50_client_branch
+/rdentry.c/5.0/Tue Mar 26 21:52:36 2002//Tldapcsdk_50_client_branch
+/search.c/5.0/Tue Mar 26 21:52:36 2002//Tldapcsdk_50_client_branch
+/srvrsort.c/5.0/Tue Mar 26 21:52:36 2002//Tldapcsdk_50_client_branch
+/ssearch.c/5.0/Tue Mar 26 21:52:37 2002//Tldapcsdk_50_client_branch
+/ssnoauth.c/5.0/Tue Mar 26 21:52:37 2002//Tldapcsdk_50_client_branch
+/win32.mak/5.0/Tue Mar 26 21:52:37 2002//Tldapcsdk_50_client_branch
+/xmplflt.conf/5.0/Tue Mar 26 21:52:38 2002//Tldapcsdk_50_client_branch
+D/macintosh////
+D/windows////

@@ -1,0 +1,26 @@
+/.cvsignore/1.3/Mon Jun 21 03:23:05 1999//
+/Makefile.in/1.27/Tue Sep 18 13:38:42 2001//
+/WalletAddress.xul/1.15/Thu Jul  3 00:25:49 2003//
+/WalletBilling.xul/1.4/Thu Jul  3 00:25:51 2003//
+/WalletConcatenated.xul/1.15/Thu Jul  3 00:25:51 2003//
+/WalletCredit.xul/1.16/Thu Jul  3 00:25:51 2003//
+/WalletEditor.dtd/1.5/Tue Nov 14 21:56:24 2000//
+/WalletEditor.js/1.25/Mon Dec 10 00:24:45 2001//
+/WalletEditor.properties/1.8/Tue Nov 14 21:56:35 2000//
+/WalletEditor.xul/1.29/Thu Jul  3 00:25:51 2003//
+/WalletEmploy.xul/1.15/Thu Jul  3 00:25:52 2003//
+/WalletMisc.xul/1.18/Thu Jul  3 00:25:52 2003//
+/WalletName.xul/1.16/Thu Jul  3 00:25:52 2003//
+/WalletOther.xul/1.4/Thu Jul  3 00:25:52 2003//
+/WalletPhone.xul/1.16/Thu Jul  3 00:25:52 2003//
+/WalletPrimary.xul/1.4/Thu Jul  3 00:25:52 2003//
+/WalletShipping.xul/1.4/Thu Jul  3 00:25:53 2003//
+/WalletTree.xul/1.9/Thu Jul  3 00:25:54 2003//
+/WalletUrlspecific.xul/1.13/Thu Jul  3 00:25:54 2003//
+/WalletViewer.dtd/1.5/Thu May 29 09:48:58 2003//
+/WalletViewer.js/1.17/Mon May 13 20:44:17 2002//
+/WalletViewer.xul/1.16/Fri Feb 28 07:54:10 2003//
+/nsIWalletEditor.idl/1.9/Tue Sep 25 23:30:59 2001//
+/nsWalletEditor.cpp/1.23/Wed Jan  8 20:13:49 2003//
+/nsWalletEditor.h/1.4/Tue Sep 25 23:31:01 2001//
+D/resources////

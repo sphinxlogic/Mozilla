@@ -1,0 +1,12 @@
+/.cvsignore/1.1/Tue Dec 18 09:14:08 2001//
+/Makefile.in/1.7/Sat Aug  2 20:17:25 2003//
+/dummyWindow.xul/1.2/Wed Jul 24 06:43:07 2002//
+/jar.mn/1.4/Tue Oct  8 06:20:42 2002//
+/nsIWindowsHooks.idl/1.16/Fri Jul 19 10:12:16 2002//
+/nsSetDefaultBrowser.js/1.3/Fri Aug  1 14:27:51 2003//
+/nsSetDefaultMail.js/1.3/Fri Aug  1 14:27:51 2003//
+/nsUnsetDefaultMail.js/1.3/Fri Aug  1 14:27:51 2003//
+/nsWindowsHooks.cpp/1.47/Sat Aug  2 20:17:25 2003//
+/nsWindowsHooks.h/1.11/Fri Mar  7 06:07:51 2003//
+/nsWindowsHooksUtil.cpp/1.26/Tue Jun  3 20:54:19 2003//
+D/locale////

@@ -1,0 +1,18 @@
+/.cvsignore/1.1/Mon Dec 21 22:16:01 1998//
+/Makefile.in/1.38/Sun Apr 20 20:55:28 2003//
+/jar.mn/1.65/Tue Aug  5 08:14:17 2003//
+/makefiles/1.75/Sun Apr 20 20:55:29 2003//
+D/addrbook////
+D/base////
+D/build////
+D/compose////
+D/db////
+D/extensions////
+D/imap////
+D/import////
+D/local////
+D/mapi////
+D/mime////
+D/movemail////
+D/news////
+D/public////

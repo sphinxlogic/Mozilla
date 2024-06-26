@@ -1,0 +1,61 @@
+/about.html/1.60/Tue Jun 17 17:17:53 2003//
+/about.xul/1.1/Tue May 21 18:56:20 2002//
+/aboutDialog.xul/1.1/Wed Jul 16 20:32:56 2003//
+/alertDialog.js/1.22/Wed Jul  9 12:48:32 2003//
+/alertDialog.xul/1.20/Wed Jul  9 12:48:33 2003//
+/attachFile.js/1.3/Tue Oct 15 13:34:01 2002//
+/calendar.js/1.106/Tue Aug  5 14:22:36 2003//
+/calendar.xul/1.145/Mon Jul 21 20:27:18 2003//
+/calendarEvent.js/1.57/Wed Jul  9 12:48:35 2003//
+/calendarMail.js/1.14/Fri Mar 21 16:11:16 2003//
+/calendarManager.js/1.57/Wed Jul  9 12:48:35 2003//
+/calendarOverlay.js/1.11/Thu Jan  9 21:55:29 2003//
+/calendarOverlay.xul/1.12/Tue May 20 17:21:44 2003//
+/calendarSelection.js/1.13/Wed Feb 12 15:39:08 2003//
+/calendarService.js/1.8/Fri Nov  1 17:59:57 2002//
+/calendarWindow.js/1.29/Wed Jun  4 20:42:42 2003//
+/clipboard.js/1.14/Thu Jan  9 21:55:29 2003//
+/contents.rdf/1.9/Fri Jul 25 23:02:59 2003//
+/dateUtils.js/1.15/Wed Jul  9 12:48:35 2003//
+/dayView.js/1.43/Tue Jun 10 16:35:01 2003//
+/dayView.xul/1.18/Mon Jun  9 18:35:49 2003//
+/dragDrop.js/1.5/Mon Mar 31 17:55:23 2003//
+/eventDialog.js/1.81/Fri Feb 14 21:39:25 2003//
+/eventDialog.xul/1.61/Thu May  8 19:27:47 2003//
+/importDuplicatesDialog.js/1.1/Thu Nov 21 14:57:39 2002//
+/importDuplicatesDialog.xul/1.3/Tue Jun 10 16:51:09 2003//
+/importExport.js/1.35/Wed Jul  9 12:48:36 2003//
+/localCalDialog.js/1.6/Fri Jul 11 12:34:16 2003//
+/localCalDialog.xul/1.7/Tue Jul 15 13:49:01 2003//
+/menuOverlay.xul/1.45/Tue Jun 10 16:49:28 2003//
+/monthView.js/1.63/Tue Jun 17 17:17:43 2003//
+/monthView.xul/1.20/Wed Apr  2 14:20:42 2003//
+/multiweekView.js/1.6/Tue Jun 17 17:17:44 2003//
+/multiweekView.xul/1.2/Fri Jun 27 12:59:45 2003//
+/printDialog.js/1.3/Tue Jun 17 14:24:05 2003//
+/printDialog.xul/1.2/Thu Jun 26 13:38:52 2003//
+/publish.js/1.12/Wed Feb 12 15:20:14 2003//
+/publishDialog.js/1.8/Thu Jun 26 13:38:52 2003//
+/publishDialog.xul/1.7/Thu Jun 26 13:38:52 2003//
+/repeatOverlay.js/1.2/Thu Jun 26 13:38:53 2003//
+/repeatOverlay.xul/1.4/Thu Jun 26 13:38:53 2003//
+/selectAddressesDialog.js/1.3/Fri Feb 28 15:38:11 2003//
+/serverDialog.js/1.11/Tue Jun 10 16:35:04 2003//
+/serverDialog.xul/1.11/Tue Jun 10 16:35:04 2003//
+/sound.wav/1.1/Thu Apr  4 21:54:55 2002/-kb/
+/sunbird.png/1.1/Wed Jul 16 20:32:57 2003/-kb/
+/sunbird_small.png/1.1/Wed Jul 16 20:32:57 2003/-kb/
+/toDoDialog.js/1.24/Mon Jul  7 12:57:49 2003//
+/toDoDialog.xul/1.22/Thu May  8 19:27:48 2003//
+/unifinder.js/1.71/Wed Jul  9 12:48:38 2003//
+/unifinderToDo.js/1.44/Tue Jul 15 15:04:41 2003//
+/weekView.js/1.46/Fri Jun 20 13:21:38 2003//
+/weekView.xul/1.27/Fri Jun 20 13:21:38 2003//
+/wizard.js/1.3/Fri Nov  1 20:46:44 2002//
+/wizard.xul/1.7/Tue Dec  3 15:02:20 2002//
+D/converters////
+D/datepicker////
+D/jslib////
+D/pref////
+D/test////
+D/timepicker////

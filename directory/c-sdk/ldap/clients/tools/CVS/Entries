@@ -1,0 +1,22 @@
+/Makefile/5.0.2.5/Sat Feb  1 19:41:47 2003//Tldapcsdk_50_client_branch
+/Makefile.client/5.0/Tue Mar 26 21:52:17 2002//Tldapcsdk_50_client_branch
+/Makefile.in/5.0.2.1/Fri Apr  5 03:51:37 2002//Tldapcsdk_50_client_branch
+/Options.txt/5.0/Tue Mar 26 21:52:18 2002//Tldapcsdk_50_client_branch
+/argpin.c/5.0/Tue Mar 26 21:52:18 2002//Tldapcsdk_50_client_branch
+/argpin.h/5.0/Tue Mar 26 21:52:18 2002//Tldapcsdk_50_client_branch
+/common.c/5.0/Tue Mar 26 21:52:18 2002//Tldapcsdk_50_client_branch
+/convutf8.cpp/5.0.2.1/Sat Mar 22 03:15:08 2003//Tldapcsdk_50_client_branch
+/examples-from-ldif-spec.ldif/5.0/Tue Mar 26 21:52:19 2002//Tldapcsdk_50_client_branch
+/fileurl.c/5.0/Tue Mar 26 21:52:19 2002//Tldapcsdk_50_client_branch
+/fileurl.h/5.0/Tue Mar 26 21:52:20 2002//Tldapcsdk_50_client_branch
+/ldapcmp.c/5.0/Tue Mar 26 21:52:20 2002//Tldapcsdk_50_client_branch
+/ldapcompare.c/5.0/Tue Mar 26 21:52:21 2002//Tldapcsdk_50_client_branch
+/ldapdelete.c/5.0/Tue Mar 26 21:52:22 2002//Tldapcsdk_50_client_branch
+/ldapmodify.c/5.0/Tue Mar 26 21:52:22 2002//Tldapcsdk_50_client_branch
+/ldapmodrdn.c/5.0/Tue Mar 26 21:52:22 2002//Tldapcsdk_50_client_branch
+/ldapsearch.c/5.0/Tue Mar 26 21:52:22 2002//Tldapcsdk_50_client_branch
+/ldaptool.h/5.0/Tue Mar 26 21:52:22 2002//Tldapcsdk_50_client_branch
+/ntuserpin.c/5.0/Tue Mar 26 21:52:23 2002//Tldapcsdk_50_client_branch
+/ntuserpin.h/5.0/Tue Mar 26 21:52:24 2002//Tldapcsdk_50_client_branch
+/tools.mak/5.0/Tue Mar 26 21:52:24 2002//Tldapcsdk_50_client_branch
+D

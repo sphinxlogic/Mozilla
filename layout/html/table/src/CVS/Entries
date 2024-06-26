@@ -1,0 +1,25 @@
+/.cvsignore/1.1/Sat Dec  5 09:03:25 1998//
+/BasicTableLayoutStrategy.cpp/3.216/Sat May 31 14:15:56 2003//
+/BasicTableLayoutStrategy.h/3.62/Sat Feb 22 15:34:07 2003//
+/FixedTableLayoutStrategy.cpp/1.41/Thu May 15 03:42:01 2003//
+/FixedTableLayoutStrategy.h/1.18/Sat Feb 22 15:34:07 2003//
+/Makefile.in/1.30/Sun Jul 13 22:28:16 2003//
+/celldata.h/1.14/Fri Feb 28 06:35:12 2003//
+/nsCellMap.cpp/3.80/Mon Jul  7 02:01:25 2003//
+/nsCellMap.h/3.44/Sat Feb 22 15:34:09 2003//
+/nsITableLayoutStrategy.h/3.34/Sat Feb 22 15:34:10 2003//
+/nsTableCellFrame.cpp/3.314/Sun Jul 13 23:25:41 2003//
+/nsTableCellFrame.h/3.128/Sun Jul 13 23:25:41 2003//
+/nsTableColFrame.cpp/3.74/Mon Jul  7 02:01:26 2003//
+/nsTableColFrame.h/3.49/Sat Feb 22 15:34:11 2003//
+/nsTableColGroupFrame.cpp/3.128/Mon Jul  7 04:57:56 2003//
+/nsTableColGroupFrame.h/3.53/Sat Feb 22 15:34:11 2003//
+/nsTableFrame.cpp/3.526/Mon Jul  7 02:01:27 2003//
+/nsTableFrame.h/3.226/Fri Mar 21 19:35:35 2003//
+/nsTableOuterFrame.cpp/3.240/Wed Jul 23 23:04:37 2003//
+/nsTableOuterFrame.h/3.96/Sat Feb 22 15:34:14 2003//
+/nsTableRowFrame.cpp/3.327/Mon Jul  7 05:15:41 2003//
+/nsTableRowFrame.h/3.103/Sat Feb 22 15:34:16 2003//
+/nsTableRowGroupFrame.cpp/3.305/Mon Jul  7 02:01:29 2003//
+/nsTableRowGroupFrame.h/3.100/Sat Feb 22 15:34:16 2003//
+D

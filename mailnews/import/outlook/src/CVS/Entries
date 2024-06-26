@@ -1,0 +1,26 @@
+/.cvsignore/1.1/Tue Dec 18 09:12:14 2001//
+/Makefile.in/1.7/Sun Apr 20 20:55:57 2003//
+/MapiApi.cpp/1.23/Tue Feb 19 22:49:08 2002//
+/MapiApi.h/1.7/Fri Sep 28 20:07:16 2001//
+/MapiDbgLog.h/1.7/Fri Nov 23 22:36:32 2001//
+/MapiMessage.cpp/1.14/Mon Feb 18 23:18:15 2002//
+/MapiMessage.h/1.7/Wed Nov  6 02:58:04 2002//
+/MapiMimeTypes.cpp/1.6/Tue Feb 19 08:42:27 2002//
+/MapiMimeTypes.h/1.3/Fri Sep 28 20:07:16 2001//
+/MapiTagStrs.cpp/1.3/Fri Sep 28 20:07:16 2001//
+/OutlookDebugLog.h/1.7/Thu Dec 19 23:28:54 2002//
+/nsOutlookCompose.cpp/1.42/Fri May 23 21:34:01 2003//
+/nsOutlookCompose.h/1.9/Wed Nov  6 02:58:04 2002//
+/nsOutlookFactory.cpp/1.14/Wed Jan 30 21:09:37 2002//
+/nsOutlookImport.cpp/1.30/Wed Jan  8 21:58:07 2003//
+/nsOutlookImport.h/1.5/Fri Sep 28 20:07:16 2001//
+/nsOutlookMail.cpp/1.29/Wed Nov  6 02:58:04 2002//
+/nsOutlookMail.h/1.11/Wed Nov  6 02:58:05 2002//
+/nsOutlookRegUtil.cpp/1.3/Fri Sep 28 20:07:17 2001//
+/nsOutlookRegUtil.h/1.3/Fri Sep 28 20:07:17 2001//
+/nsOutlookSettings.cpp/1.23/Sun Jul 20 07:47:00 2003//
+/nsOutlookSettings.h/1.3/Fri Sep 28 20:07:17 2001//
+/nsOutlookStringBundle.cpp/1.15/Fri Nov 15 03:29:19 2002//
+/nsOutlookStringBundle.h/1.4/Fri Sep 28 20:07:17 2001//
+/win32.order/1.4/Thu Apr  5 05:58:56 2001//
+D

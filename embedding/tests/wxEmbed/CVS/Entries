@@ -1,0 +1,27 @@
+/BrowserFrame.cpp/1.7/Wed Jul  2 21:52:42 2003//
+/BrowserFrame.h/1.8/Wed Jul  2 21:52:42 2003//
+/ChatFrame.cpp/1.4/Wed Jul  2 21:52:42 2003//
+/ChatFrame.h/1.2/Thu Jun 26 21:30:49 2003//
+/EditorFrame.cpp/1.3/Mon Jun 30 20:48:49 2003//
+/EditorFrame.h/1.3/Mon Jun 30 20:48:48 2003//
+/EmbedApp.cpp/1.8/Wed Jul  2 21:52:41 2003//
+/GeckoContainer.cpp/1.5/Fri Jul 25 19:06:19 2003//
+/GeckoContainer.h/1.5/Wed Jul  2 21:52:41 2003//
+/GeckoContainerUI.cpp/1.4/Wed Jun 25 22:46:09 2003//
+/GeckoFrame.cpp/1.3/Wed Jul  2 21:52:41 2003//
+/GeckoFrame.h/1.2/Fri Jun 27 19:50:09 2003//
+/GeckoProtocolHandler.cpp/1.4/Wed Jul  2 21:52:41 2003//
+/GeckoProtocolHandler.h/1.2/Tue Jun 24 21:08:24 2003//
+/GeckoWindow.cpp/1.3/Fri Jun 27 19:50:09 2003//
+/GeckoWindow.h/1.3/Fri Jun 27 19:50:09 2003//
+/GeckoWindowCreator.cpp/1.3/Wed Jul  2 21:52:41 2003//
+/GeckoWindowCreator.h/1.2/Tue Jun 24 21:08:25 2003//
+/MailFrame.cpp/1.6/Wed Jul  2 21:52:39 2003//
+/MailFrame.h/1.4/Thu Jun 26 21:30:48 2003//
+/README.txt/1.3/Mon Jun 30 20:48:47 2003//
+/global.h/1.3/Wed Jul  2 21:52:41 2003//
+/makefile.vc/1.5/Fri Jun 27 19:50:09 2003//
+/wxEmbed.def/1.1/Tue Jun 24 20:15:14 2003//
+/wxEmbed.dsp/1.3/Fri Jun 27 19:50:09 2003//
+/wxEmbed.rc/1.1/Tue Jun 24 20:15:14 2003//
+D/rc////

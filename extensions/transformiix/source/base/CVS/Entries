@@ -1,0 +1,25 @@
+/.cvsignore/1.1/Fri Jul  6 02:35:43 2001//
+/Double.cpp/1.20/Thu Jan 30 08:26:46 2003//
+/ErrorObserver.h/1.8/Fri Jan 17 12:39:36 2003//
+/List.cpp/1.16/Mon Aug 19 22:15:53 2002//
+/List.h/1.15/Wed Mar 26 01:09:35 2003//
+/Makefile.in/1.30/Wed Mar 26 01:09:35 2003//
+/SimpleErrorObserver.cpp/1.7/Fri Jan 17 12:43:30 2003//
+/TxLog.h/1.9/Fri May 23 21:55:14 2003//
+/TxObject.h/1.11/Fri Apr  4 15:44:13 2003//
+/baseutils.h/1.14/Fri Jan 17 12:38:53 2003//
+/primitives.h/1.12/Fri Jan 17 12:43:05 2003//
+/txAtoms.cpp/1.5/Sun Jan 19 23:16:51 2003//
+/txAtoms.h/1.6/Sun Jan 19 23:16:51 2003//
+/txError.h/1.9/Mon Jun 16 22:30:49 2003//
+/txExpandedNameMap.cpp/1.6/Wed Jun 11 19:12:23 2003//
+/txExpandedNameMap.h/1.6/Wed Mar 26 01:09:38 2003//
+/txNamespaceMap.cpp/1.2/Wed Mar 26 01:09:38 2003//
+/txNamespaceMap.h/1.2/Wed Mar 26 01:09:38 2003//
+/txStack.h/1.6/Mon Jun  9 18:48:11 2003//
+/txStringUtils.cpp/1.1/Fri Jan 17 12:38:00 2003//
+/txStringUtils.h/1.5/Fri Apr  4 08:00:00 2003//
+/txTokenizer.h/1.1/Tue Jan 21 22:06:32 2003//
+/txURIUtils.cpp/1.19/Thu Jul 17 10:13:24 2003//
+/txURIUtils.h/1.7/Tue Jun 24 20:41:46 2003//
+D

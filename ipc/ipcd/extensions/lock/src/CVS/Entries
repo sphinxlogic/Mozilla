@@ -1,0 +1,7 @@
+/.cvsignore/1.1.2.1/Tue Apr 15 06:40:20 2003//TIPC_BRANCH_20030304
+/Makefile.in/1.1.2.3/Tue Jun 24 14:22:43 2003//TIPC_BRANCH_20030304
+/ipcLockProtocol.cpp/1.1.2.2/Wed May 21 19:20:11 2003//TIPC_BRANCH_20030304
+/ipcLockProtocol.h/1.1.2.2/Wed May 21 19:20:11 2003//TIPC_BRANCH_20030304
+/ipcLockService.cpp/1.1.2.2/Wed May 21 19:20:12 2003//TIPC_BRANCH_20030304
+/ipcLockService.h/1.1.2.2/Wed May 21 19:20:12 2003//TIPC_BRANCH_20030304
+D/module////

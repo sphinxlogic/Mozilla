@@ -1,0 +1,17 @@
+/cdefs.h/1.1/Sun Mar 11 22:40:40 2001//
+/errno.h/1.1/Sun Mar 11 22:40:44 2001//
+/filio.h/1.1/Sun Mar 11 22:40:48 2001//
+/ioccom.h/1.1/Sun Mar 11 22:40:52 2001//
+/ioctl.h/1.1/Sun Mar 11 22:40:56 2001//
+/ppc.h/1.1/Sun Mar 11 22:41:01 2001//
+/signal.h/1.1/Sun Mar 11 22:41:06 2001//
+/socket.h/1.1/Sun Mar 11 22:41:21 2001//
+/sockio.h/1.1/Sun Mar 11 22:41:24 2001//
+/stat.h/1.1/Sun Mar 11 22:41:28 2001//
+/time.h/1.1/Sun Mar 11 22:41:34 2001//
+/ttycom.h/1.1/Sun Mar 11 22:41:37 2001//
+/types.h/1.1/Sun Mar 11 22:41:40 2001//
+/uio.h/1.1/Sun Mar 11 22:41:44 2001//
+/un.h/1.1/Sun Mar 11 22:41:56 2001//
+/unistd.h/1.1/Sun Mar 11 22:42:01 2001//
+D

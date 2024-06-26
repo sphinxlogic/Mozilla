@@ -1,0 +1,11 @@
+/.cvsignore/1.1/Sat Feb 24 06:22:21 2001//
+/Makefile.in/1.5/Tue Jan 14 07:08:36 2003//
+D/base////
+D/events////
+D/html////
+D/shared////
+D/svg////
+D/xbl////
+D/xml////
+D/xsl////
+D/xul////

@@ -1,0 +1,11 @@
+/.cvsignore/1.1/Mon Aug  2 11:56:13 1999//
+/Makefile.in/1.6/Sat Dec 28 01:13:45 2002//
+/nsIFontPackageHandler.idl/1.4/Wed Sep 26 00:39:56 2001//
+/nsIFontPackageProxy.idl/1.4/Wed Sep 26 00:39:56 2001//
+/nsIFontPackageService.idl/1.5/Wed Sep 26 00:39:56 2001//
+/nsILanguageAtom.idl/1.1/Tue May  2 22:52:08 2000//
+/nsILanguageAtomService.idl/1.4/Wed Jun 11 18:14:40 2003//
+/nsILocale.idl/1.6/Wed Sep 26 00:39:56 2001//
+/nsILocaleService.idl/1.7/Wed Sep 26 00:39:56 2001//
+/nsIScriptableDateFormat.idl/1.10/Sat Mar  9 00:00:15 2002//
+D

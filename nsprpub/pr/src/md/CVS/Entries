@@ -1,0 +1,8 @@
+/.cvsignore/1.2/Sat May 12 04:24:53 2001//TNSPRPUB_PRE_4_2_CLIENT_BRANCH
+/Makefile.in/1.11/Sat May 12 04:27:24 2001//TNSPRPUB_PRE_4_2_CLIENT_BRANCH
+/prosdep.c/3.9.4.1/Fri Oct 26 04:54:05 2001//TNSPRPUB_PRE_4_2_CLIENT_BRANCH
+D/beos////
+D/mac////
+D/os2////
+D/unix////
+D/windows////

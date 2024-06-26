@@ -1,0 +1,15 @@
+/.cvsignore/5.0/Tue Mar 26 21:53:07 2002//Tldapcsdk_50_client_branch
+/Makefile.client/5.0/Tue Mar 26 21:53:08 2002//Tldapcsdk_50_client_branch
+/Makefile.in/5.0.2.2/Fri Apr  5 03:51:39 2002//Tldapcsdk_50_client_branch
+/genMakefile.client/5.0/Tue Mar 26 21:53:09 2002//Tldapcsdk_50_client_branch
+/libldap.ex/5.0/Tue Mar 26 21:53:10 2002//Tldapcsdk_50_client_branch
+/libldap_ssl.ex/5.0/Tue Mar 26 21:53:10 2002//Tldapcsdk_50_client_branch
+D/libiutil////
+D/liblber////
+D/libldap////
+D/libldif////
+D/libprldap////
+D/libssldap////
+D/libutil////
+D/macintosh////
+D/msdos////

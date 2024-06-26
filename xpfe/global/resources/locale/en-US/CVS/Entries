@@ -1,0 +1,38 @@
+/.cvsignore/1.1/Thu Jan 27 03:19:16 2000//
+/Makefile.in/1.25/Tue Oct  8 06:20:50 2002//
+/about.dtd/1.2/Sat May 19 15:54:16 2001//
+/about.xhtml/1.21/Fri May 30 20:10:33 2003//
+/accept2locale.properties/1.1/Fri May 12 22:17:49 2000//
+/brand.dtd/1.15/Wed Jun  4 11:10:26 2003//
+/brand.properties/1.14/Fri Aug 10 21:28:03 2001//
+/builtinURLs.rdf/1.8/Wed Jun 19 00:50:12 2002//
+/charsetOverlay.dtd/1.14/Wed Jan  9 00:01:23 2002//
+/commonDialog.dtd/1.1/Thu Jan 27 03:19:18 2000//
+/commonDialogs.properties/1.5/Tue Oct  1 05:13:37 2002//
+/config.dtd/1.4/Fri Jun 13 17:01:49 2003//
+/config.properties/1.1/Mon Jan 20 13:39:19 2003//
+/contents-region.rdf/1.19/Thu Jun 12 15:18:58 2003//
+/contents.rdf/1.18/Wed Jun  4 11:10:25 2003//
+/dialog.properties/1.3/Wed Nov  6 02:37:18 2002//
+/dialogOverlay.dtd/1.1/Thu Jan 27 03:19:18 2000//
+/fontpackage.dtd/1.2/Thu Jun 12 03:27:18 2003//
+/fontpackage.properties/1.1/Thu Jun 12 02:07:32 2003//
+/intl.css/1.2/Thu May 11 04:52:57 2000//
+/keys.properties/1.3/Wed Jan  2 22:34:27 2002//
+/languageNames.properties/1.11/Mon Jun 30 20:39:35 2003//
+/nsTreeSorting.properties/1.1/Tue Jul  3 01:41:17 2001//
+/printPreviewProgress.dtd/1.1/Tue Jul  9 12:39:02 2002//
+/printProgress.dtd/1.4/Tue Jul  9 12:39:02 2002//
+/printdialog.dtd/1.2/Tue Jan  1 12:58:04 2002//
+/region.dtd/1.18/Wed Jun  4 11:10:26 2003//
+/region.properties/1.12/Thu Jun 12 03:27:18 2003//
+/regionNames.properties/1.5/Fri Feb 22 22:14:18 2002//
+/tabbrowser.dtd/1.8/Wed Mar 12 04:12:17 2003//
+/tabbrowser.properties/1.3/Wed Feb 19 13:26:03 2003//
+/textcontext.dtd/1.2/Wed Oct 16 22:22:09 2002//
+/wizardManager.properties/1.2/Mon Jul 31 21:26:29 2000//
+/wizardOverlay.dtd/1.1/Thu Jan 27 03:19:19 2000//
+D/mac////
+D/os2////
+D/unix////
+D/win////

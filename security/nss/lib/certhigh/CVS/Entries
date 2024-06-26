@@ -1,0 +1,14 @@
+/Makefile/1.1/Fri Mar 31 19:42:53 2000//TNSS_CLIENT_TAG
+/certhigh.c/1.29/Thu Oct  3 03:35:32 2002//TNSS_CLIENT_TAG
+/certhtml.c/1.3/Fri Oct 26 21:30:58 2001//TNSS_CLIENT_TAG
+/certreq.c/1.2/Sun Jan  7 08:12:51 2001//TNSS_CLIENT_TAG
+/certvfy.c/1.30.2.1/Thu Apr 17 00:35:21 2003//TNSS_CLIENT_TAG
+/config.mk/1.2/Fri Feb  2 01:49:27 2001//TNSS_CLIENT_TAG
+/crlv2.c/1.1/Fri Mar 31 19:43:00 2000//TNSS_CLIENT_TAG
+/manifest.mn/1.3/Fri Sep  6 16:37:48 2002//TNSS_CLIENT_TAG
+/ocsp.c/1.15/Thu Dec 12 06:05:28 2002//TNSS_CLIENT_TAG
+/ocsp.h/1.5/Mon Sep 23 23:47:49 2002//TNSS_CLIENT_TAG
+/ocspt.h/1.3/Wed Jul  3 20:18:07 2002//TNSS_CLIENT_TAG
+/ocspti.h/1.4/Wed Jul  3 20:18:07 2002//TNSS_CLIENT_TAG
+/xcrldist.c/1.3/Sat Aug 31 00:37:34 2002//TNSS_CLIENT_TAG
+D

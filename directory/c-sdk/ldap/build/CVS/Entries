@@ -1,0 +1,12 @@
+/.cvsignore/5.0/Tue Mar 26 21:52:11 2002//Tldapcsdk_50_client_branch
+/Makefile.client/5.0/Tue Mar 26 21:52:12 2002//Tldapcsdk_50_client_branch
+/Makefile.in/5.0.2.1/Fri Apr  5 03:51:36 2002//Tldapcsdk_50_client_branch
+/autoconf.mk.in/5.0/Tue Mar 26 21:52:13 2002//Tldapcsdk_50_client_branch
+/compver.sh/5.0/Tue Mar 26 21:52:14 2002//Tldapcsdk_50_client_branch
+/dirver.c/5.0/Tue Mar 26 21:52:14 2002//Tldapcsdk_50_client_branch
+/genexports.pl/5.0.2.1/Tue Mar 18 18:04:07 2003//Tldapcsdk_50_client_branch
+/my_overrides.mk/5.0/Tue Mar 26 21:52:14 2002//Tldapcsdk_50_client_branch
+/nsftp.sh/5.0/Tue Mar 26 21:52:14 2002//Tldapcsdk_50_client_branch
+/replace.pl/5.0.2.1/Thu Mar 28 20:26:01 2002//Tldapcsdk_50_client_branch
+/replace.pm/1.1.2.1/Thu Mar 28 20:26:02 2002//Tldapcsdk_50_client_branch
+D

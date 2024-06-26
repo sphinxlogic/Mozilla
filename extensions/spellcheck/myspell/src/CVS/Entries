@@ -1,0 +1,16 @@
+/.cvsignore/1.1/Thu Jul 24 21:39:12 2003//
+/Makefile.in/1.3/Tue Jul 29 01:51:57 2003//
+/license.readme/1.2/Thu Jul 24 21:39:13 2003//
+/mozAffixMod.cpp/1.2/Thu Jul 24 21:39:13 2003//
+/mozAffixMod.h/1.2/Thu Jul 24 21:39:13 2003//
+/mozCStr2CStrHashtable.cpp/1.2/Thu Jul 24 21:39:14 2003//
+/mozCStr2CStrHashtable.h/1.2/Thu Jul 24 21:39:14 2003//
+/mozMySpell.cpp/1.2/Thu Jul 24 21:39:14 2003//
+/mozMySpell.h/1.2/Thu Jul 24 21:39:15 2003//
+/mozMySpellFactory.cpp/1.2/Thu Jul 24 21:39:15 2003//
+/myspAffixmgr.cpp/1.2/Thu Jul 24 21:39:15 2003//
+/myspAffixmgr.h/1.2/Thu Jul 24 21:39:16 2003//
+/myspSuggestmgr.cpp/1.2/Thu Jul 24 21:39:16 2003//
+/myspSuggestmgr.h/1.2/Thu Jul 24 21:39:16 2003//
+/nsReadCLine.h/1.2/Thu Jul 24 21:39:17 2003//
+D

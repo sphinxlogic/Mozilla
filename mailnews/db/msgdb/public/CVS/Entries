@@ -1,0 +1,16 @@
+/.cvsignore/1.1/Sat Feb  6 02:49:31 1999//
+/Makefile.in/1.22/Tue Dec 18 09:12:05 2001//
+/nsDBFolderInfo.h/1.34/Fri Dec 13 19:57:26 2002//
+/nsIDBChangeAnnouncer.idl/1.6/Sun Feb 23 04:05:42 2003//
+/nsIDBChangeListener.idl/1.6/Sun Feb 23 04:05:42 2003//
+/nsIDBFolderInfo.idl/1.20/Fri Dec 13 19:57:26 2002//
+/nsIMsgDatabase.idl/1.36/Thu Sep 26 00:22:48 2002//
+/nsIMsgOfflineImapOperation.idl/1.4/Fri Sep 28 20:07:00 2001//
+/nsINewsDatabase.idl/1.3/Wed Oct 10 19:23:42 2001//
+/nsImapMailDatabase.h/1.19/Mon Jun 30 23:33:42 2003//
+/nsMailDatabase.h/1.30/Wed May 28 22:47:39 2003//
+/nsMsgDatabase.h/1.109/Wed Apr  2 22:44:31 2003//
+/nsMsgHdr.h/1.50/Wed Nov 21 21:51:30 2001//
+/nsMsgThread.h/1.20/Fri Sep 28 20:07:00 2001//
+/nsNewsDatabase.h/1.33/Thu May 30 14:27:46 2002//
+D

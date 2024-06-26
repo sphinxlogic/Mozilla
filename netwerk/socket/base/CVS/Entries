@@ -1,0 +1,20 @@
+/.cvsignore/1.1/Sun Aug 22 20:22:43 1999//
+/Makefile.in/1.15/Wed May 15 19:33:25 2002//
+/nsISOCKS4SocketInfo.idl/1.1/Wed Jul 25 00:28:21 2001//
+/nsISOCKS4SocketProvider.idl/1.1/Wed Jul 25 00:28:22 2001//
+/nsISOCKSSocketInfo.idl/1.2/Sat Jul  1 10:25:22 2000//
+/nsISOCKSSocketProvider.idl/1.3/Wed Sep 13 23:54:32 2000//
+/nsISSLSocketControl.idl/1.4/Wed Aug 14 23:43:25 2002//
+/nsISSLSocketProvider.idl/1.4/Wed Aug 14 23:43:26 2002//
+/nsISocketProvider.idl/1.9/Fri Sep 28 20:09:36 2001//
+/nsISocketProviderService.idl/1.5/Fri Sep 28 20:09:37 2001//
+/nsITransportSecurityInfo.idl/1.3/Thu May 16 20:48:50 2002//
+/nsSOCKS4SocketProvider.cpp/1.3/Wed Jan  8 22:25:59 2003//
+/nsSOCKS4SocketProvider.h/1.1/Wed Jul 25 00:28:24 2001//
+/nsSOCKSIOLayer.cpp/1.12/Wed Jan  8 22:26:00 2003//
+/nsSOCKSIOLayer.h/1.3/Wed Jul 25 00:28:19 2001//
+/nsSOCKSSocketProvider.cpp/1.5/Wed Jan  8 22:30:25 2003//
+/nsSOCKSSocketProvider.h/1.2/Sat Jul  1 10:25:23 2000//
+/nsSocketProviderService.cpp/1.15/Wed Jan  8 22:30:26 2003//
+/nsSocketProviderService.h/1.4/Fri Sep 28 20:09:37 2001//
+D

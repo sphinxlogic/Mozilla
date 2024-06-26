@@ -1,0 +1,13 @@
+/.cvsignore/1.2/Tue Feb 20 22:43:42 2001//
+/ImageErrors.h/1.3/Wed May 14 05:42:03 2003//
+/ImageLogging.h/1.5/Sat Mar 23 21:20:46 2002//
+/Makefile.in/1.13/Sat Dec 28 01:13:59 2002//
+/imgICache.idl/1.2/Mon Jun 18 06:36:35 2001//
+/imgIContainer.idl/1.5/Thu Nov 21 09:06:11 2002//
+/imgIContainerObserver.idl/1.3/Wed Feb 26 05:51:02 2003//
+/imgIDecoder.idl/1.4/Tue Oct 23 08:06:39 2001//
+/imgIDecoderObserver.idl/1.3/Wed Feb 26 05:51:02 2003//
+/imgILoad.idl/1.2/Wed Feb 27 00:32:17 2002//
+/imgILoader.idl/1.10/Mon Mar 17 16:08:46 2003//
+/imgIRequest.idl/1.12/Sat Mar 23 04:33:33 2002//
+D

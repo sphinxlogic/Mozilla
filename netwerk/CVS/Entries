@@ -1,0 +1,16 @@
+/.cvsignore/1.2/Thu Jun 17 19:00:56 1999//
+/Makefile.in/1.26/Wed Apr 23 03:47:31 2003//
+/necko-config.h.in/1.1/Wed Apr 23 03:47:31 2003//
+D/base////
+D/build////
+D/build2////
+D/cache////
+D/cookie////
+D/dns////
+D/mime////
+D/protocol////
+D/resources////
+D/socket////
+D/streamconv////
+D/test////
+D/testserver////

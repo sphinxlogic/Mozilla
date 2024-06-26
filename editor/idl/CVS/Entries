@@ -1,0 +1,23 @@
+/.cvsignore/1.1/Sat Jun 12 19:23:17 1999//
+/Makefile.in/1.19/Wed Jun 25 08:50:27 2003//
+/nsICiter.idl/1.5/Tue Sep 25 22:52:53 2001//
+/nsIContentFilter.idl/1.4/Tue Jun 10 18:52:10 2003//
+/nsIDocumentStateListener.idl/1.5/Tue Sep 25 22:52:53 2001//
+/nsIEditActionListener.idl/1.5/Fri Jul 18 19:03:32 2003//
+/nsIEditor.idl/1.20/Tue Jul  8 20:38:48 2003//
+/nsIEditorIMESupport.idl/1.6/Thu Nov 29 10:05:36 2001//
+/nsIEditorLogging.idl/1.2/Wed Sep 25 23:34:01 2002//
+/nsIEditorMailSupport.idl/1.4/Wed Jul  9 02:39:51 2003//
+/nsIEditorObserver.idl/1.4/Tue Sep 25 22:52:53 2001//
+/nsIEditorSpellCheck.idl/1.11/Thu Apr 17 14:28:57 2003//
+/nsIEditorStyleSheets.idl/1.6/Fri Sep 13 19:47:28 2002//
+/nsIHTMLAbsPosEditor.idl/1.1/Wed Jun 25 08:50:28 2003//
+/nsIHTMLEditor.idl/1.20/Fri Jul 18 19:03:34 2003//
+/nsIHTMLInlineTableEditor.idl/1.1/Wed Jun 25 08:50:28 2003//
+/nsIHTMLObjectResizeListener.idl/1.1/Wed Jun 25 08:50:28 2003//
+/nsIHTMLObjectResizer.idl/1.3/Fri Jul 18 19:03:34 2003//
+/nsIPlaintextEditor.idl/1.11/Mon Jul 28 13:13:43 2003//
+/nsITableEditor.idl/1.7/Fri Sep 13 04:19:23 2002//
+/nsIURIRefObject.idl/1.4/Tue Sep 25 22:52:58 2001//
+/nsPIEditorTransaction.idl/1.4/Tue Sep 25 22:52:58 2001//
+D

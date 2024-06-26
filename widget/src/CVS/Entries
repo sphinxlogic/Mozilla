@@ -1,0 +1,18 @@
+/.cvsignore/1.1/Sat Dec  5 09:06:52 1998//
+/Makefile.in/1.30/Tue Apr  1 20:02:37 2003//
+D/beos////
+D/build////
+D/cocoa////
+D/gtk////
+D/gtk2////
+D/gtksuperwin////
+D/gtkxtbin////
+D/mac////
+D/os2////
+D/photon////
+D/support////
+D/windows////
+D/xlib////
+D/xlibxtbin////
+D/xpwidgets////
+D/xremoteclient////

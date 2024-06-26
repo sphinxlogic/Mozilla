@@ -1,0 +1,35 @@
+/.cvsignore/1.1/Fri Jul  2 05:40:00 1999//
+/Makefile.in/1.57/Tue Aug  5 02:16:35 2003//
+/jar.mn/1.12/Wed Sep 18 14:47:06 2002//
+/nsCCookieManager.h/1.2/Sat Mar 16 02:13:38 2002//
+/nsCookie.cpp/1.119/Wed Jun 18 00:52:58 2003//
+/nsCookie.h/1.25/Fri Jun 20 02:20:32 2003//
+/nsCookiePermission.cpp/1.5/Sat Aug  2 18:17:55 2003//
+/nsCookiePermission.h/1.2/Sat Aug  2 17:20:51 2003//
+/nsCookiePromptService.cpp/1.2/Sat Mar 22 01:24:37 2003//
+/nsCookiePromptService.h/1.1/Wed Jan 22 05:52:27 2003//
+/nsCookieService.cpp/1.88/Tue Aug  5 02:16:36 2003//
+/nsCookieService.h/1.26/Sat Aug  2 17:20:51 2003//
+/nsICookie.idl/1.4/Sat Mar 16 02:11:49 2002//
+/nsICookie2.idl/1.1/Sat Jun 14 20:10:55 2003//
+/nsICookieAcceptDialog.idl/1.2/Wed Jan 22 05:52:27 2003//
+/nsICookieConsent.idl/1.1/Fri Feb 15 02:55:14 2002//
+/nsICookieManager.idl/1.8/Sat Mar 16 02:12:27 2002//
+/nsICookieManager2.idl/1.2/Sun Jan 19 19:38:34 2003//
+/nsICookiePermission.idl/1.2/Sat Aug  2 17:20:51 2003//
+/nsICookiePromptService.idl/1.2/Sat Mar 22 01:24:38 2003//
+/nsIImgManager.idl/1.9/Sat Mar 22 01:24:38 2003//
+/nsIPermission.idl/1.4/Wed Jul  9 00:20:51 2003//
+/nsIPermissionManager.idl/1.11/Wed Jul  9 00:20:51 2003//
+/nsImgManager.cpp/1.33/Sat Aug  2 17:20:52 2003//
+/nsImgManager.h/1.10/Sat Mar 22 01:24:38 2003//
+/nsModuleFactory.cpp/1.17/Tue Aug  5 01:44:19 2003//
+/nsPermission.cpp/1.12/Wed Jul  9 00:20:51 2003//
+/nsPermission.h/1.8/Wed Jul  9 00:20:52 2003//
+/nsPermissionManager.cpp/1.27/Fri Jul 11 00:04:02 2003//
+/nsPermissionManager.h/1.13/Wed Jul  9 00:20:52 2003//
+/nsPopupWindowManager.cpp/1.13/Wed Jul  9 00:20:52 2003//
+/nsPopupWindowManager.h/1.7/Sat Mar 22 01:24:39 2003//
+/win32.order/1.4/Thu Apr  5 05:57:41 2001//
+D/resources////
+D/tests////

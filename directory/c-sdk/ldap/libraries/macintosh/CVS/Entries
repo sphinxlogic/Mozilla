@@ -1,0 +1,16 @@
+/LDAPClient.exp/5.0/Tue Mar 26 21:54:17 2002//Tldapcsdk_50_client_branch
+/LDAPClient.mcp/5.0/Tue Mar 26 21:54:18 2002/-kb/Tldapcsdk_50_client_branch
+/LDAPClient.xml/5.0/Tue Mar 26 21:54:18 2002//Tldapcsdk_50_client_branch
+/LDAPClientDebugDefs.h/5.0.2.1/Wed Apr  9 21:46:21 2003//Tldapcsdk_50_client_branch
+/LDAPClientDefs.h/5.0.2.1/Wed Apr  9 21:46:21 2003//Tldapcsdk_50_client_branch
+/LDAPPRClient.exp/5.0/Tue Mar 26 21:54:24 2002//Tldapcsdk_50_client_branch
+/LDAPSSLClient.exp/5.0/Tue Mar 26 21:54:25 2002//Tldapcsdk_50_client_branch
+/README/5.0/Tue Mar 26 21:54:25 2002//Tldapcsdk_50_client_branch
+/getopt.c/5.0/Tue Mar 26 21:54:26 2002//Tldapcsdk_50_client_branch
+/kerberos-macos.c/5.0/Tue Mar 26 21:54:26 2002//Tldapcsdk_50_client_branch
+/ldap-macos-defs.h/5.0/Tue Mar 26 21:54:27 2002//Tldapcsdk_50_client_branch
+/ldap-macos.h/5.0/Tue Mar 26 21:54:27 2002//Tldapcsdk_50_client_branch
+/libldap-PPC.r/5.0/Tue Mar 26 21:54:28 2002//Tldapcsdk_50_client_branch
+/macos-ip.c/5.0/Tue Mar 26 21:54:28 2002//Tldapcsdk_50_client_branch
+/strings.c/5.0/Tue Mar 26 21:54:28 2002//Tldapcsdk_50_client_branch
+D/tcp-univhdrs////

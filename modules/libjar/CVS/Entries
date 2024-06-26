@@ -1,0 +1,25 @@
+/.cvsignore/1.1/Sat Mar 27 09:19:37 1999//
+/Makefile.in/1.43/Mon Jun  9 22:25:22 2003//
+/appnote.txt/1.1/Tue Nov  5 02:14:10 2002//
+/nsIJAR.idl/1.11/Wed Mar 26 07:21:30 2003//
+/nsIJARFactory.h/1.7/Thu Sep 20 00:01:58 2001//
+/nsIZipReader.idl/1.16/Thu Sep 20 00:01:58 2001//
+/nsJAR.cpp/1.106/Tue Jul 15 22:18:02 2003//
+/nsJAR.h/1.44/Tue Jul 15 22:18:03 2003//
+/nsJARFactory.cpp/1.24/Fri Mar 14 18:59:46 2003//
+/nsJARInputStream.cpp/1.22/Fri Mar 14 18:59:46 2003//
+/nsJARInputStream.h/1.11/Fri Mar 14 18:59:47 2003//
+/nsWildCard.cpp/1.8/Thu Jul  4 09:33:52 2002//
+/nsWildCard.h/1.6/Fri Sep 28 20:07:58 2001//
+/nsXPTZipLoader.cpp/1.2/Wed Jan  8 22:02:49 2003//
+/nsXPTZipLoader.h/1.1/Thu Apr  4 22:28:17 2002//
+/nsZipArchive.cpp/1.75/Tue Jul 15 22:18:04 2003//
+/nsZipArchive.h/1.36/Tue Jul 15 22:18:04 2003//
+/nsZlibAllocator.h/1.2/Fri Jan  4 05:46:48 2002//
+/objs.mk/1.5/Fri Mar 14 18:59:49 2003//
+/win32.order/1.4/Thu Apr  5 06:01:41 2001//
+/zipfile.h/1.9/Thu Sep 20 00:01:59 2001//
+/zipstruct.h/1.7/Fri May  3 14:50:46 2002//
+/zipstub.h/1.17/Tue Jul 22 20:14:22 2003//
+D/standalone////
+D/test////

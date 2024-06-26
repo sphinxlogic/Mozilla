@@ -1,0 +1,20 @@
+/.cvsignore/1.1/Fri Mar 31 19:43:45 2000//TNSS_CLIENT_TAG
+/Makefile/1.11.54.1/Mon Apr 21 23:01:54 2003//TNSS_CLIENT_TAG
+/README/1.2/Wed Oct 23 19:04:22 2002//TNSS_CLIENT_TAG
+/anchor.c/1.1/Fri Mar 31 19:43:46 2000//TNSS_CLIENT_TAG
+/bfind.c/1.4/Wed Oct 30 19:01:21 2002//TNSS_CLIENT_TAG
+/binst.c/1.1/Fri Feb  8 00:10:02 2002//TNSS_CLIENT_TAG
+/bobject.c/1.2/Fri Mar 29 07:34:22 2002//TNSS_CLIENT_TAG
+/bsession.c/1.1/Fri Feb  8 00:10:03 2002//TNSS_CLIENT_TAG
+/bslot.c/1.1/Fri Feb  8 00:10:03 2002//TNSS_CLIENT_TAG
+/btoken.c/1.1/Fri Feb  8 00:10:05 2002//TNSS_CLIENT_TAG
+/builtins.h/1.3/Fri Feb  8 00:10:05 2002//TNSS_CLIENT_TAG
+/certdata.c/1.25.26.2/Thu Jun  5 01:16:06 2003//TNSS_CLIENT_TAG
+/certdata.perl/1.7/Fri Feb  8 00:10:06 2002//TNSS_CLIENT_TAG
+/certdata.txt/1.26.26.2/Thu Jun  5 01:16:08 2003//TNSS_CLIENT_TAG
+/config.mk/1.6.36.1/Mon Apr 21 23:01:55 2003//TNSS_CLIENT_TAG
+/constants.c/1.8/Thu Aug 29 17:45:10 2002//TNSS_CLIENT_TAG
+/manifest.mn/1.6.34.1/Fri May  9 20:58:43 2003//TNSS_CLIENT_TAG
+/nssckbi.def/1.1.2.1/Fri May  9 20:58:43 2003//TNSS_CLIENT_TAG
+/nssckbi.h/1.5.26.2/Thu Jun  5 21:52:53 2003//TNSS_CLIENT_TAG
+D

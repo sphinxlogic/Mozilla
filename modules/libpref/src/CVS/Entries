@@ -1,0 +1,22 @@
+/.cvsignore/1.1/Sat Dec  5 09:04:15 1998//
+/Makefile.in/1.70/Wed May 21 21:14:26 2003//
+/nsPref.cpp/3.169/Tue Apr 29 04:17:36 2003//
+/nsPrefBranch.cpp/1.50/Thu Jul 24 05:15:12 2003//
+/nsPrefBranch.h/1.20/Tue Sep  3 23:35:45 2002//
+/nsPrefService.cpp/1.69/Mon Jul 14 07:37:28 2003//
+/nsPrefService.h/1.17/Fri May  2 04:00:18 2003//
+/nsPrefsFactory.cpp/1.15/Tue Apr  9 14:18:39 2002//
+/nsSafeSaveFile.cpp/1.10/Fri Mar 14 04:03:08 2003//
+/nsSafeSaveFile.h/1.5/Wed May 29 18:04:41 2002//
+/nsSharedPrefHandler.cpp/3.3/Thu Jun 19 14:33:41 2003//
+/nsSharedPrefHandler.h/3.2/Wed May 21 21:14:29 2003//
+/prefapi.cpp/3.135/Mon Jul 21 22:10:08 2003//
+/prefapi.h/3.21/Wed Mar 27 06:02:30 2002//
+/prefapi_private_data.h/1.32/Fri May  2 04:00:19 2003//
+/win32.order/1.4/Thu Apr  5 06:01:48 2001//
+D/beos////
+D/init////
+D/mac////
+D/os2////
+D/unix////
+D/win////

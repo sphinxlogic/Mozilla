@@ -1,0 +1,22 @@
+/.cvsignore/1.1/Sat Dec  5 09:04:29 1998//
+/Makefile.in/1.16/Thu Jun 19 08:00:29 2003//
+/ProxyJNI.h/1.10/Fri Sep 28 20:08:26 2001//
+/nsIJRIPlugin.h/1.6/Fri Sep 28 20:08:26 2001//
+/nsIJVMAuthTools.idl/1.2/Wed Apr  2 03:52:54 2003//
+/nsIJVMConfigManager.idl/1.1/Thu Jun 19 08:00:30 2003//
+/nsIJVMConsole.h/1.10/Fri Sep 28 20:08:26 2001//
+/nsIJVMManager.idl/1.11/Fri Sep 28 20:08:26 2001//
+/nsIJVMPlugin.h/1.16/Fri Sep 28 20:08:26 2001//
+/nsIJVMPluginInstance.idl/1.6/Fri Sep 28 20:08:26 2001//
+/nsIJVMPluginTagInfo.h/1.7/Fri Sep 28 20:08:27 2001//
+/nsIJVMPrefsWindow.h/1.7/Fri Sep 28 20:08:27 2001//
+/nsIJVMWindow.h/1.5/Fri Sep 28 20:08:27 2001//
+/nsILiveConnectManager.h/1.8/Fri Sep 28 20:08:27 2001//
+/nsISecureEnv.h/1.5/Fri Sep 28 20:08:27 2001//
+/nsISecureJNI.h/1.5/Fri Sep 28 20:08:27 2001//
+/nsISecureJNI2.h/1.7/Fri Sep 28 20:08:27 2001//
+/nsISymantecDebugManager.h/1.6/Fri Sep 28 20:08:27 2001//
+/nsISymantecDebugger.h/1.6/Fri Sep 28 20:08:27 2001//
+/nsIThreadManager.h/1.8/Fri Sep 28 20:08:27 2001//
+/nsjvm.h/1.9/Fri Sep 28 20:08:27 2001//
+D

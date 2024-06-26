@@ -1,0 +1,20 @@
+/-/1.1/Fri Dec 21 19:21:52 2001//
+/2445.ics/1.1/Fri Dec 21 19:04:15 2001//
+/2446.ics/1.1/Fri Dec 21 19:04:16 2001//
+/Makefile.am/1.2/Fri Dec 21 18:56:54 2001//
+/copycluster.c/1.2/Fri Dec 21 18:56:55 2001//
+/findobj.c/1.1/Fri Dec 21 19:04:16 2001//
+/icaltestparser.c/1.2/Fri Dec 21 18:56:55 2001//
+/itip.ics/1.1/Fri Dec 21 19:04:16 2001//
+/outgoing.ics/1.1/Fri Dec 21 19:04:16 2001//
+/process.c/1.2/Fri Dec 21 18:56:56 2001//
+/recur.c/1.3/Thu Mar 14 15:18:02 2002//
+/recur.dsp/1.1/Fri Dec 21 19:04:16 2001//
+/regression.c/1.4/Thu Mar 14 15:18:03 2002//
+/regression.dsp/1.1/Fri Dec 21 19:04:16 2001//
+/storage.c/1.2/Fri Dec 21 18:56:57 2001//
+/stow.c/1.2/Fri Dec 21 18:56:57 2001//
+/testclassify.c/1.2/Fri Dec 21 18:56:57 2001//
+/testmime.c/1.2/Fri Dec 21 18:56:58 2001//
+/testvcal.c/1.2/Fri Dec 21 18:56:58 2001//
+D

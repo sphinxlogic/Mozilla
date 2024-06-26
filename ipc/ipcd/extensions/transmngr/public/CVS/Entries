@@ -1,0 +1,6 @@
+/.cvsignore/1.1.2.1/Mon Apr 14 21:30:07 2003//TIPC_BRANCH_20030304
+/Makefile.in/1.1.2.3/Wed May 21 19:20:21 2003//TIPC_BRANCH_20030304
+/ipcITransactionObserver.idl/1.1.2.1/Wed May 21 19:14:52 2003//TIPC_BRANCH_20030304
+/ipcITransactionService.idl/1.1.2.1/Wed May 21 19:14:53 2003//TIPC_BRANCH_20030304
+/tmITransactionService.idl/1.1.2.2/Sun Apr 13 22:15:48 2003//TIPC_BRANCH_20030304
+D

@@ -1,0 +1,24 @@
+/.cvsignore/5.0/Tue Mar 26 21:54:34 2002//Tldapcsdk_50_client_branch
+/ldap32.def/5.0/Tue Mar 26 21:54:35 2002//Tldapcsdk_50_client_branch
+/ldap32.tdf/5.0/Tue Mar 26 21:54:35 2002//Tldapcsdk_50_client_branch
+/ldapssl.def/5.0/Tue Mar 26 21:54:35 2002//Tldapcsdk_50_client_branch
+/ldapssl.tdf/5.0/Tue Mar 26 21:54:35 2002//Tldapcsdk_50_client_branch
+/libldap.def/5.0/Tue Mar 26 21:54:35 2002//Tldapcsdk_50_client_branch
+/libldap.tdf/5.0/Tue Mar 26 21:54:37 2002//Tldapcsdk_50_client_branch
+/mozock.c/5.0/Tue Mar 26 21:54:37 2002//Tldapcsdk_50_client_branch
+/nslch32.tdf/5.0/Tue Mar 26 21:54:37 2002//Tldapcsdk_50_client_branch
+/nsldap.def/5.0/Tue Mar 26 21:54:38 2002//Tldapcsdk_50_client_branch
+/nsldap.mak/5.0/Tue Mar 26 21:54:38 2002//Tldapcsdk_50_client_branch
+/nsldap.rc/5.0/Tue Mar 26 21:54:38 2002//Tldapcsdk_50_client_branch
+/nsldap.tdf/5.0/Tue Mar 26 21:54:38 2002//Tldapcsdk_50_client_branch
+/nsldap32.def/5.0/Tue Mar 26 21:54:38 2002//Tldapcsdk_50_client_branch
+/nsldap32.tdf/5.0/Tue Mar 26 21:54:38 2002//Tldapcsdk_50_client_branch
+/nsldappr-incl.def/5.0/Tue Mar 26 21:54:39 2002//Tldapcsdk_50_client_branch
+/nsldappr-incl.tdf/5.0/Tue Mar 26 21:54:41 2002//Tldapcsdk_50_client_branch
+/nsldappr32.def/5.0/Tue Mar 26 21:54:41 2002//Tldapcsdk_50_client_branch
+/nsldappr32.tdf/5.0/Tue Mar 26 21:54:41 2002//Tldapcsdk_50_client_branch
+/nsldapssl32.def/5.0/Tue Mar 26 21:54:41 2002//Tldapcsdk_50_client_branch
+/nsldapssl32.tdf/5.0/Tue Mar 26 21:54:41 2002//Tldapcsdk_50_client_branch
+/nssldap32.def/5.0/Tue Mar 26 21:54:41 2002//Tldapcsdk_50_client_branch
+/nssldap32.tdf/5.0/Tue Mar 26 21:54:41 2002//Tldapcsdk_50_client_branch
+D

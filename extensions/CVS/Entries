@@ -1,0 +1,31 @@
+/.cvsignore/1.1/Wed Mar 31 08:30:26 1999//
+/Makefile.in/1.14/Fri Dec 29 22:10:32 2000//
+D/access-builtin////
+D/content-packs////
+D/cookie////
+D/cview////
+D/datetime////
+D/editor////
+D/finger////
+D/help////
+D/inspector////
+D/irc////
+D/layout-debug////
+D/manticore////
+D/p3p////
+D/pics////
+D/pref////
+D/python////
+D/spellcheck////
+D/sql////
+D/sroaming////
+D/transformiix////
+D/tridentprofile////
+D/typeaheadfind////
+D/universalchardet////
+D/venkman////
+D/wallet////
+D/webservices////
+D/xml-rpc////
+D/xmlextras////
+D/xmlterm////

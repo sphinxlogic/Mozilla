@@ -1,0 +1,12 @@
+/.cvsignore/5.0/Tue Mar 26 21:53:17 2002//Tldapcsdk_50_client_branch
+/Makefile.client/5.0/Tue Mar 26 21:53:17 2002//Tldapcsdk_50_client_branch
+/Makefile.in/5.0.2.4/Tue Apr 30 03:49:43 2002//Tldapcsdk_50_client_branch
+/bprint.c/5.0/Tue Mar 26 21:53:19 2002//Tldapcsdk_50_client_branch
+/decode.c/5.0/Tue Mar 26 21:53:21 2002//Tldapcsdk_50_client_branch
+/dtest.c/5.0/Tue Mar 26 21:53:22 2002//Tldapcsdk_50_client_branch
+/encode.c/5.0/Tue Mar 26 21:53:22 2002//Tldapcsdk_50_client_branch
+/etest.c/5.0/Tue Mar 26 21:53:22 2002//Tldapcsdk_50_client_branch
+/idtest.c/5.0/Tue Mar 26 21:53:22 2002//Tldapcsdk_50_client_branch
+/io.c/5.0/Tue Mar 26 21:53:23 2002//Tldapcsdk_50_client_branch
+/lber-int.h/5.0/Tue Mar 26 21:53:23 2002//Tldapcsdk_50_client_branch
+D

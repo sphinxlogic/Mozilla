@@ -1,0 +1,13 @@
+/.cvsignore/1.1.2.1/Tue Apr 15 06:40:08 2003//TIPC_BRANCH_20030304
+/Makefile.in/1.1.2.2/Wed May 21 19:20:07 2003//TIPC_BRANCH_20030304
+/ipcModuleFactory.cpp/1.1.2.3/Wed May 21 19:20:07 2003//TIPC_BRANCH_20030304
+/ipcService.cpp/1.1.2.2/Wed May 21 19:20:07 2003//TIPC_BRANCH_20030304
+/ipcService.h/1.1.2.1/Wed Mar  5 03:45:14 2003//TIPC_BRANCH_20030304
+/ipcSocketProviderUnix.cpp/1.1.2.2/Mon May 12 14:56:31 2003//TIPC_BRANCH_20030304
+/ipcSocketProviderUnix.h/1.1.2.1/Wed Mar  5 03:45:15 2003//TIPC_BRANCH_20030304
+/ipcTransport.cpp/1.1.2.3/Mon May 12 12:44:34 2003//TIPC_BRANCH_20030304
+/ipcTransport.h/1.1.2.1/Wed Mar  5 03:45:18 2003//TIPC_BRANCH_20030304
+/ipcTransportUnix.cpp/1.1.2.2/Mon May 12 14:56:32 2003//TIPC_BRANCH_20030304
+/ipcTransportUnix.h/1.1.2.1/Wed Mar  5 03:45:20 2003//TIPC_BRANCH_20030304
+/ipcTransportWin.cpp/1.1.2.1/Wed Mar  5 03:45:20 2003//TIPC_BRANCH_20030304
+D

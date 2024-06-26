@@ -1,0 +1,22 @@
+/Makefile.in/1.10/Sun Jul 13 22:28:49 2003//
+/dlldeps.cpp/1.2/Sat Mar 15 01:57:18 2003//
+/nsFileSpec.cpp/1.5/Wed May 14 21:56:49 2003//
+/nsFileSpec.h/1.2/Mon Mar 10 20:56:11 2003//
+/nsFileSpecBeOS.cpp/1.2/Mon Mar 10 20:56:12 2003//
+/nsFileSpecImpl.cpp/1.3/Sat Mar 15 01:57:18 2003//
+/nsFileSpecImpl.h/1.3/Sat Mar 15 01:57:19 2003//
+/nsFileSpecMac.cpp/1.2/Mon Mar 10 20:56:15 2003//
+/nsFileSpecOS2.cpp/1.2/Mon Mar 10 20:56:18 2003//
+/nsFileSpecUnix.cpp/1.3/Thu Jul  3 20:54:39 2003//
+/nsFileSpecWin.cpp/1.4/Wed May 14 21:56:49 2003//
+/nsFileStream.cpp/1.3/Fri Jul 11 23:10:19 2003//
+/nsFileStream.h/1.2/Mon Mar 10 20:56:19 2003//
+/nsIFileSpec.idl/1.2/Mon Mar 10 20:56:19 2003//
+/nsIFileStream.cpp/1.2/Mon Mar 10 20:56:20 2003//
+/nsIFileStream.h/1.2/Mon Mar 10 20:56:20 2003//
+/nsIRegistry.idl/1.1/Sat Mar 15 01:57:19 2003//
+/nsIRegistryUtils.h/1.1/Sat Mar 15 01:57:19 2003//
+/nsSpecialSystemDirectory.cpp/1.3/Thu May  8 20:41:20 2003//
+/nsSpecialSystemDirectory.h/1.2/Mon Mar 10 20:56:23 2003//
+/nsXPCOMObsolete.cpp/1.1/Sat Mar 15 01:57:19 2003//
+D/component////

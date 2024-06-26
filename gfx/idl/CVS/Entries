@@ -1,0 +1,23 @@
+/.cvsignore/1.1/Sat Aug 28 18:22:06 1999//
+/Makefile.in/1.29/Tue Jan 21 20:37:59 2003//
+/geniid.pl/1.1/Sat Oct 10 04:36:27 1998//
+/gfxIFormats.idl/1.3/Sat Sep 29 14:05:14 2001//
+/gfxIImageFrame.idl/1.11/Tue Mar 18 21:07:19 2003//
+/gfxtypes.idl/1.8/Tue Jan 21 20:38:00 2003//
+/nsIFontCatalogService.idl/1.10/Tue Jun 24 01:15:37 2003//
+/nsIFontEnumerator.idl/1.5/Thu May 29 03:57:21 2003//
+/nsIFontList.idl/1.2/Wed Sep 26 00:15:02 2001//
+/nsIFreeType2.idl/1.6/Sun Feb 23 00:06:55 2003//
+/nsIGraphics.idl/1.3/Wed Sep 26 00:15:02 2001//
+/nsIPrintOptions.idl/1.36/Thu Apr 17 20:16:53 2003//
+/nsIPrintSession.idl/1.1/Sat Jul 13 00:08:21 2002//
+/nsIPrintSessionX.idl/1.1/Sat Jul 13 00:08:26 2002//
+/nsIPrintSettings.idl/1.23/Fri Aug  1 01:55:58 2003//
+/nsIPrintSettingsMac.idl/1.3/Thu May  2 14:01:26 2002//
+/nsIPrintSettingsService.idl/1.1/Tue May 14 12:04:30 2002//
+/nsIPrintSettingsWin.idl/1.1/Mon Mar 25 11:48:43 2002//
+/nsIPrintSettingsX.idl/1.4/Sat Jul 13 00:18:24 2002//
+/nsIScreen.idl/1.4/Tue Apr 30 23:15:09 2002//
+/nsIScreenManager.idl/1.2/Sat Mar 18 00:56:33 2000//
+/nsIScriptableRegion.idl/1.2/Sat May 12 20:54:54 2001//
+D
